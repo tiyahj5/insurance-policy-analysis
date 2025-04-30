@@ -63,5 +63,8 @@ The goal is to build a full ETL pipeline using **Python**, **SQL**, **Airflow**,
 
 ## 📊 Entity Relationship Diagram (ERD)
 
-[📄 View Full ERD (PDF)](docs/insurance_erd.pdf)
+The Entity Relationship Diagram (ERD) below models the structure of a supplemental insurance system. It highlights the relationships between customers, their policies, submitted claims, and payments. The design follows best practices in relational database modeling using primary and foreign keys.
+
+📄 [Click here to view the full ERD (PDF)](./insurance_erd.pdf)
+
 
