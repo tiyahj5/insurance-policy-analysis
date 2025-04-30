@@ -60,3 +60,8 @@ The goal is to build a full ETL pipeline using **Python**, **SQL**, **Airflow**,
 - **Resolution Time** = claim closure time in days
 
 ---
+
+## 📊 Entity Relationship Diagram (ERD)
+
+[📄 View Full ERD (PDF)](docs/insurance_erd.pdf)
+
